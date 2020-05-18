@@ -1,0 +1,56 @@
+body
+{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+header{
+    background-color: cornsilk;
+    text-align: center;
+    
+}
+
+h1, h2{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+}
+header h1{
+    color: brown;
+    font-size: 50px;
+    
+}
+h2{
+    color: rgb(50, 80, 38);
+}
+
+a:hover{
+    background-color: white;
+    color: rgb(50, 80, 38);
+}
+header img{
+    border-radius: 150px;
+    border: 20px solid white;
+    padding: 0;
+}
+main {
+    background-color: rgb(158, 189, 158);
+    max-width: 1000;
+    margin: 0 center;
+    padding: 20px 20px 30px 650px;
+
+}  
+main img{
+
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 20px 20px 0;
+    
+
+    
+}
+footer{
+    padding: 0 30px;
+}
+p.caption{
+    font-style: italic;
+
+}
