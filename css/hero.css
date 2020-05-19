@@ -33,20 +33,29 @@ header img{
 }
 main {
     background-color: rgb(158, 189, 158);
-    max-width: 1000;
+    max-width: 800;
     margin: 0 center;
-    padding: 20px 20px 30px 650px;
+    padding: 20px 20px 30px 30px;
 
 }  
 main img{
 
     max-width: 100%;
     margin: 0 auto;
-    padding: 0 20px 20px 0;
+    
     
 
     
 }
+.caption{
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 footer{
     padding: 0 30px;
 }
